@@ -1,0 +1,250 @@
+id,event_type,event_cause,priority,requires_road_closure,hour,month,is_weekend,corridor,zone,duration_min,high_duration_risk
+FKID000003,unplanned,tree_fall,Low,1,17,3,0,Non-corridor,,9465.174807333333,1
+FKID000018,unplanned,tree_fall,Low,0,19,3,0,Non-corridor,,293.3450075,0
+FKID000021,unplanned,tree_fall,Low,1,19,3,0,Non-corridor,,2928.5208131000004,1
+FKID000025,unplanned,tree_fall,Low,1,6,3,0,Non-corridor,,843.3240253,0
+FKID000033,unplanned,tree_fall,Low,0,20,3,0,Non-corridor,,2907.6902057166667,1
+FKID000048,unplanned,tree_fall,High,0,20,3,0,Bellary Road 1,,1829.3005564666666,1
+FKID000058,unplanned,tree_fall,High,0,20,3,0,Bellary Road 1,,1819.0784875333334,1
+FKID000059,unplanned,tree_fall,High,0,20,3,0,Bellary Road 1,,1823.1111353833332,1
+FKID000060,unplanned,tree_fall,High,0,20,3,0,Bellary Road 1,,1825.6380844833334,1
+FKID000066,unplanned,tree_fall,Low,0,20,3,0,Non-corridor,,321.23818236666665,0
+FKID000081,unplanned,tree_fall,Low,0,21,3,0,Non-corridor,,116.8119772,0
+FKID000095,unplanned,tree_fall,Low,0,21,3,0,Non-corridor,,8.620181266666666,0
+FKID000099,unplanned,tree_fall,Low,1,21,3,0,Non-corridor,,8761.173063133332,1
+FKID000122,unplanned,tree_fall,Low,1,23,3,0,Non-corridor,,61.79462865,0
+FKID000163,unplanned,tree_fall,Low,1,0,3,0,Non-corridor,,178.15932105,0
+FKID000174,unplanned,tree_fall,Low,0,5,3,0,Non-corridor,,1228.0686473666667,0
+FKID000243,unplanned,tree_fall,Low,1,7,3,0,Non-corridor,,105.48940756666666,0
+FKID000244,unplanned,tree_fall,Low,0,7,3,0,Non-corridor,,2198.129693766667,1
+FKID000246,unplanned,tree_fall,Low,0,7,3,0,Non-corridor,,2195.455855816667,1
+FKID000255,unplanned,tree_fall,Low,1,8,3,0,Non-corridor,,66.3340463,0
+FKID000301,unplanned,accident,High,0,19,2,0,Old Airport Road,,35.956496816666665,0
+FKID000328,unplanned,accident,Low,0,19,3,0,Non-corridor,,78.2774947,1
+FKID000348,unplanned,tree_fall,Low,0,22,3,0,Non-corridor,,508.2992390666667,0
+FKID000404,unplanned,accident,Low,0,2,3,1,Non-corridor,,0.8491233333333333,0
+FKID000421,unplanned,tree_fall,Low,1,6,3,1,Non-corridor,,52.854736083333336,0
+FKID000457,unplanned,tree_fall,High,0,7,3,1,ORR West 1,,628.0100223833334,0
+FKID000461,unplanned,accident,High,0,23,2,1,Tumkur Road,,34.37267258333333,0
+FKID000492,unplanned,tree_fall,High,0,8,3,1,Hosur Road,,62.19627536666667,0
+FKID000504,unplanned,congestion,High,0,20,2,0,Hennur Main Road,,41.08258143333333,0
+FKID000515,unplanned,tree_fall,High,0,11,3,1,Mysore Road,,2191.5870473500004,1
+FKID000525,unplanned,tree_fall,Low,0,18,3,1,Non-corridor,,1938.8078038166668,1
+FKID000527,unplanned,tree_fall,Low,0,18,3,1,Non-corridor,,7741.090977233333,1
+FKID000528,unplanned,tree_fall,Low,1,18,3,1,Non-corridor,,7725.8088132,1
+FKID000529,unplanned,tree_fall,Low,0,19,3,1,Non-corridor,,7714.292728683333,1
+FKID000542,unplanned,tree_fall,Low,0,19,3,1,Non-corridor,,7684.336017833333,1
+FKID000563,unplanned,accident,High,0,4,2,0,Bellary Road 1,,16.25948615,0
+FKID000586,unplanned,accident,High,0,18,2,0,Bellary Road 2,,65.95049823333333,1
+FKID000657,unplanned,accident,Low,0,23,2,0,Non-corridor,,4.357959916666667,0
+FKID000706,unplanned,tree_fall,Low,1,18,3,1,Non-corridor,,56.79600258333333,0
+FKID000798,unplanned,tree_fall,High,0,9,3,0,West of Chord Road,,31.80648258333333,0
+FKID000817,unplanned,tree_fall,Low,0,12,2,0,Non-corridor,,358.28831121666667,0
+FKID000828,unplanned,accident,High,0,22,2,0,ORR East 1,,52.74507428333333,0
+FKID000866,unplanned,accident,Low,0,6,2,1,Non-corridor,,1.8313234166666668,0
+FKID000942,unplanned,accident,High,0,5,2,1,Mysore Road,,32.826353266666665,0
+FKID000996,unplanned,congestion,High,0,20,2,0,Hennur Main Road,,81.69610738333334,0
+FKID001089,unplanned,congestion,High,0,7,2,0,Hennur Main Road,,70.369317,0
+FKID001095,unplanned,tree_fall,High,0,5,3,0,Bellary Road 1,,20.392180399999997,0
+FKID001292,unplanned,congestion,High,0,1,2,0,ORR North 1,,87.10293336666668,0
+FKID001324,unplanned,tree_fall,Low,1,7,3,0,Non-corridor,,79.37274963333333,0
+FKID001331,unplanned,accident,High,0,10,3,0,ORR North 1,,52.03779613333334,0
+FKID001355,unplanned,tree_fall,Low,0,20,3,0,Non-corridor,,56.49172753333333,0
+FKID001374,unplanned,tree_fall,Low,0,21,3,0,Non-corridor,,31.31014948333333,0
+FKID001387,unplanned,congestion,High,0,23,3,0,ORR North 1,,37.785654916666665,0
+FKID001405,unplanned,accident,High,0,0,3,0,Old Madras Road,,41.571545316666665,0
+FKID001425,unplanned,congestion,High,0,4,3,0,Hennur Main Road,,136.03228926666668,1
+FKID001446,unplanned,tree_fall,High,1,16,2,1,Bellary Road 1,,141.58774876666666,0
+FKID001477,unplanned,accident,Low,0,21,2,1,Non-corridor,,64.67699146666666,1
+FKID001504,unplanned,accident,High,1,18,3,0,Hosur Road,,74.62887731666666,1
+FKID001520,unplanned,tree_fall,Low,0,20,3,0,Non-corridor,,48.916281016666666,0
+FKID001643,unplanned,tree_fall,Low,0,5,2,0,Non-corridor,,16.6391068,0
+FKID001705,unplanned,tree_fall,High,1,18,3,1,Bellary Road 1,,20.54189726666667,0
+FKID001725,unplanned,tree_fall,High,0,9,2,0,Bellary Road 1,,1443.1942532166665,0
+FKID001755,unplanned,congestion,High,0,1,2,0,ORR North 1,,72.70130863333334,0
+FKID001769,unplanned,accident,High,0,3,2,0,ORR North 2,,9.1037502,0
+FKID001820,unplanned,accident,Low,0,18,2,0,Non-corridor,,45.76001521666667,0
+FKID001929,unplanned,accident,Low,0,19,2,1,Non-corridor,,52.07746276666667,0
+FKID001944,unplanned,congestion,High,0,0,2,1,Hennur Main Road,,108.22733615,0
+FKID001998,unplanned,accident,Low,0,1,2,0,Non-corridor,,31.814843783333334,0
+FKID002024,unplanned,tree_fall,Low,0,19,2,0,Non-corridor,,2289.517529416667,1
+FKID002066,unplanned,congestion,High,0,5,2,0,Hennur Main Road,,115.77675745,1
+FKID002075,unplanned,accident,High,1,10,2,0,Mysore Road,,39.028780866666665,0
+FKID002091,unplanned,accident,High,0,20,2,0,ORR North 1,,41.37271345,0
+FKID002098,unplanned,accident,Low,0,21,2,0,Non-corridor,,41.838232833333336,0
+FKID002121,unplanned,accident,High,0,1,2,0,Airport New South Road,,68.80150233333333,1
+FKID002200,unplanned,accident,High,0,2,2,0,Bellary Road 2,,22.644470733333332,0
+FKID002241,unplanned,accident,High,0,20,2,0,Bellary Road 1,,52.424526316666665,0
+FKID002286,unplanned,tree_fall,Low,0,3,3,0,Non-corridor,,16.442733933333333,0
+FKID002311,unplanned,tree_fall,High,0,5,3,0,Tumkur Road,,239.99684209999998,0
+FKID002368,unplanned,accident,High,0,19,3,0,ORR North 1,,34.21685993333333,0
+FKID002478,unplanned,accident,High,0,22,3,0,Hosur Road,,19.286777033333333,0
+FKID002560,unplanned,congestion,High,0,4,3,0,Hennur Main Road,,157.83113301666666,1
+FKID002591,unplanned,congestion,High,0,1,3,0,ORR North 1,,52.42753255,0
+FKID002598,unplanned,tree_fall,Low,0,19,3,0,Non-corridor,,48.95543648333333,0
+FKID002612,unplanned,congestion,Low,1,4,3,0,Non-corridor,,12.732202816666668,0
+FKID002624,unplanned,congestion,High,0,4,3,0,ORR North 1,,154.51919141666667,1
+FKID002658,unplanned,tree_fall,Low,0,21,3,0,Non-corridor,,92.98989458333334,0
+FKID002698,unplanned,tree_fall,High,1,5,3,0,Bellary Road 1,,971.1941217166666,0
+FKID002702,unplanned,tree_fall,Low,1,5,3,0,Non-corridor,,63.69129203333333,0
+FKID002703,unplanned,tree_fall,Low,0,10,3,1,Non-corridor,,412.24392695,0
+FKID002712,unplanned,accident,High,0,19,3,1,Bellary Road 1,,47.199177299999995,0
+FKID002720,unplanned,tree_fall,Low,1,5,3,0,Non-corridor,,4073.313846416667,1
+FKID002731,unplanned,tree_fall,High,0,5,3,0,Mysore Road,,829.2974442333333,0
+FKID002736,unplanned,accident,Low,0,21,3,1,Non-corridor,,8.980089583333333,0
+FKID002759,unplanned,tree_fall,High,0,6,3,0,ORR West 1,,66.95399586666666,0
+FKID002760,unplanned,tree_fall,Low,1,6,3,0,Non-corridor,,1114.93334045,0
+FKID002781,unplanned,tree_fall,Low,0,6,3,0,Non-corridor,,18.082762549999998,0
+FKID002798,unplanned,tree_fall,Low,1,6,3,0,Non-corridor,,2904.7070553500002,1
+FKID002804,unplanned,tree_fall,Low,0,6,3,0,Non-corridor,,914.0249496,0
+FKID002810,unplanned,tree_fall,High,0,6,3,0,Tumkur Road,,933.8846359333334,0
+FKID002818,unplanned,tree_fall,Low,1,6,3,0,Non-corridor,,220.28841453333334,0
+FKID002854,unplanned,tree_fall,High,0,6,3,0,CBD 2,,6519.827883249999,1
+FKID002864,unplanned,tree_fall,Low,0,6,3,0,Non-corridor,,1173.6232398833333,0
+FKID002897,unplanned,tree_fall,Low,1,0,3,0,Non-corridor,,76.98202371666666,0
+FKID002902,unplanned,tree_fall,Low,0,7,3,0,Non-corridor,,75.3254728,0
+FKID002909,unplanned,tree_fall,Low,1,8,3,0,Non-corridor,,8604.974344016668,1
+FKID002924,unplanned,tree_fall,Low,1,8,3,0,Non-corridor,,1414.7297125500002,0
+FKID002925,unplanned,tree_fall,Low,1,8,3,0,Non-corridor,,8590.158413066667,1
+FKID003013,unplanned,tree_fall,High,0,4,3,0,West of Chord Road,,72.68515286666667,0
+FKID003022,unplanned,accident,Low,0,5,3,0,Non-corridor,,42.8945817,0
+FKID003030,unplanned,tree_fall,High,0,5,3,0,ORR North 1,,191.90470683333334,0
+FKID003035,unplanned,tree_fall,High,0,5,3,0,Magadi Road,,9.963474483333332,0
+FKID003036,unplanned,tree_fall,High,1,5,3,0,Airport New South Road,,18.271439616666665,0
+FKID003037,unplanned,tree_fall,Low,1,5,3,0,Non-corridor,,81.05660200000001,0
+FKID003039,unplanned,tree_fall,Low,0,5,3,0,Non-corridor,,4383.935256866666,1
+FKID003079,unplanned,tree_fall,High,0,20,3,0,Bellary Road 1,,115.15186836666666,0
+FKID003087,unplanned,tree_fall,Low,1,21,3,0,Non-corridor,,173.99265736666666,0
+FKID003199,unplanned,tree_fall,Low,1,21,3,0,Non-corridor,,59.84010705,0
+FKID003235,unplanned,tree_fall,Low,1,6,3,0,Non-corridor,,5696.365478299999,1
+FKID003237,unplanned,tree_fall,Low,1,6,3,0,Non-corridor,,123.11069673333333,0
+FKID003238,unplanned,tree_fall,High,0,6,3,0,ORR North 1,,27.822454966666665,0
+FKID003241,unplanned,tree_fall,High,0,6,3,0,Airport New South Road,,55.80160463333333,0
+FKID003261,unplanned,tree_fall,High,1,7,3,0,Mysore Road,,185.27675816666667,0
+FKID003265,unplanned,tree_fall,Low,0,7,3,0,Non-corridor,,62.629011799999994,0
+FKID003267,unplanned,tree_fall,High,0,7,3,0,West of Chord Road,,2.361166116666667,0
+FKID003271,unplanned,tree_fall,High,1,7,3,0,Mysore Road,,2161.8970669833334,1
+FKID003278,unplanned,congestion,Low,0,7,3,0,,,1.9894772,0
+FKID003284,unplanned,congestion,Low,0,7,3,0,Non-corridor,,125.9162801,1
+FKID003292,unplanned,accident,Low,1,13,3,0,Non-corridor,,28.093455249999998,0
+FKID003310,unplanned,accident,High,0,20,3,0,Tumkur Road,,62.21196405,1
+FKID003311,unplanned,tree_fall,Low,0,20,3,0,Non-corridor,,486.97046405000003,0
+FKID003328,unplanned,tree_fall,Low,0,22,3,0,Non-corridor,,40.36682893333333,0
+FKID003341,unplanned,tree_fall,Low,1,22,3,0,Non-corridor,,29.77319076666667,0
+FKID003391,unplanned,tree_fall,Low,1,17,3,1,Non-corridor,,107.3134921,0
+FKID003405,unplanned,tree_fall,High,0,21,3,1,West of Chord Road,,3476.3552569333333,1
+FKID003456,unplanned,tree_fall,Low,0,7,3,1,Non-corridor,,8425.193067016668,1
+FKID003497,unplanned,accident,High,0,8,4,0,Bellary Road 2,,111.00052843333333,1
+FKID003569,unplanned,tree_fall,High,0,20,4,0,Tumkur Road,,625.2399286,0
+FKID003618,unplanned,tree_fall,High,1,7,4,0,ORR North 1,,91.21919121666666,0
+FKID003620,unplanned,tree_fall,Low,1,7,4,0,Non-corridor,,925.7372646833334,0
+FKID003622,unplanned,tree_fall,High,1,7,4,0,ORR North 1,,1460.2014964666666,1
+FKID003633,unplanned,tree_fall,Low,1,7,4,0,Non-corridor,,910.6879625166667,0
+FKID003637,unplanned,tree_fall,High,0,7,4,0,Tumkur Road,,266.31099951666664,0
+FKID003643,unplanned,tree_fall,Low,0,7,4,0,Non-corridor,,18.83196996666667,0
+FKID003650,unplanned,tree_fall,High,0,8,4,0,West of Chord Road,,33.88522995,0
+FKID003657,unplanned,tree_fall,Low,1,10,4,0,Non-corridor,,32.49691728333333,0
+FKID003682,unplanned,tree_fall,Low,1,21,4,0,Non-corridor,,4537.371423233333,1
+FKID003685,unplanned,tree_fall,Low,0,21,4,0,Non-corridor,,1.08053705,0
+FKID003688,unplanned,tree_fall,Low,1,21,4,0,Non-corridor,,90.36818116666667,0
+FKID003694,unplanned,tree_fall,Low,0,21,4,0,Non-corridor,,1470.0430083666665,1
+FKID003695,unplanned,tree_fall,Low,0,22,4,0,Non-corridor,,1440.6003920833332,0
+FKID003696,unplanned,tree_fall,Low,0,22,4,0,Non-corridor,,2916.2087200166666,1
+FKID003703,unplanned,tree_fall,Low,0,22,4,0,Non-corridor,,1411.9529853499998,0
+FKID003739,unplanned,accident,High,0,8,4,0,Bellary Road 2,,61.258163683333336,0
+FKID003811,unplanned,tree_fall,Low,1,8,4,0,Non-corridor,,16.979280016666667,0
+FKID003813,unplanned,tree_fall,High,0,8,4,0,ORR West 1,,72.61775473333334,0
+FKID003814,unplanned,tree_fall,Low,1,8,4,0,Non-corridor,,96.0607281,0
+FKID003815,unplanned,tree_fall,Low,0,8,4,0,Non-corridor,,1393.53298145,0
+FKID003826,unplanned,tree_fall,High,1,8,4,0,Hosur Road,,5581.945785433333,1
+FKID003836,unplanned,tree_fall,Low,1,9,4,0,Non-corridor,,548.7531228,0
+FKID003838,unplanned,tree_fall,Low,0,9,4,0,Non-corridor,,1320.4380149333333,0
+FKID003845,unplanned,tree_fall,Low,1,10,4,0,Non-corridor,,536.49335105,0
+FKID003858,unplanned,tree_fall,Low,1,21,4,0,Non-corridor,,300.69633755,0
+FKID003869,unplanned,tree_fall,High,0,22,4,0,West of Chord Road,,155.89571066666667,0
+FKID003878,unplanned,tree_fall,Low,0,10,4,0,Non-corridor,,952.3543390833333,0
+FKID003944,unplanned,tree_fall,Low,1,7,4,1,Non-corridor,,44.1921915,0
+FKID003948,unplanned,tree_fall,High,0,7,4,1,Tumkur Road,,1153.7935038666667,0
+FKID003967,unplanned,tree_fall,Low,0,7,4,1,Non-corridor,,64.03180449999999,0
+FKID003968,unplanned,tree_fall,Low,1,7,4,1,Non-corridor,,77.13955258333334,0
+FKID003997,unplanned,tree_fall,High,0,19,4,1,Old Madras Road,,54.21143968333333,0
+FKID004003,unplanned,tree_fall,Low,1,20,4,1,Non-corridor,,38.38311856666667,0
+FKID004015,unplanned,tree_fall,High,1,22,4,1,Bannerghata Road,,30.045177533333334,0
+FKID004055,unplanned,accident,High,0,5,4,1,Tumkur Road,,26.873762566666667,0
+FKID004063,unplanned,tree_fall,Low,1,6,4,1,Non-corridor,,53.07258183333333,0
+FKID004069,unplanned,tree_fall,High,0,6,4,1,Bellary Road 1,,1266.6776086833333,0
+FKID004149,unplanned,tree_fall,High,0,1,1,0,Bellary Road 1,West Zone 2,235.45923915,0
+FKID004189,unplanned,accident,Low,0,23,12,0,Non-corridor,,43.29526675,0
+FKID004196,unplanned,accident,Low,0,0,12,0,Non-corridor,,77.25445518333332,1
+FKID004197,unplanned,accident,Low,0,1,12,0,Non-corridor,,57.72944888333333,0
+FKID004213,unplanned,accident,High,0,2,1,0,Bellary Road 2,,29.787725583333334,0
+FKID004316,unplanned,congestion,Low,0,2,12,0,Non-corridor,North Zone 2,8.53112645,0
+FKID004497,unplanned,accident,High,0,20,11,0,Bellary Road 1,Central Zone 2,77.10802596666667,1
+FKID004512,unplanned,accident,Low,0,5,11,0,Non-corridor,North Zone 2,36.671183766666665,0
+FKID004552,unplanned,accident,High,0,5,11,0,ORR East 1,East Zone 1,29.571941783333333,0
+FKID004570,unplanned,tree_fall,Low,0,7,1,0,Non-corridor,West Zone 2,90.51336833333333,0
+FKID004582,unplanned,accident,Low,0,2,12,0,Non-corridor,West Zone 1,107.37691118333333,1
+FKID004634,unplanned,accident,Low,0,9,11,1,Non-corridor,North Zone 2,26.38407085,0
+FKID004923,unplanned,tree_fall,High,1,4,12,0,Magadi Road,West Zone 1,91.44109088333333,0
+FKID005011,unplanned,tree_fall,Low,1,10,1,0,Non-corridor,,634.9466416166667,0
+FKID005087,unplanned,accident,Low,0,21,1,1,Non-corridor,,53.34333818333334,0
+FKID005090,unplanned,accident,High,0,22,12,1,Bellary Road 1,West Zone 2,22.104458983333334,0
+FKID005114,unplanned,accident,Low,0,19,12,1,Non-corridor,West Zone 1,20.5029632,0
+FKID005213,unplanned,congestion,High,0,6,11,0,Old Airport Road,Central Zone 1,1.56152965,0
+FKID005342,unplanned,accident,High,0,20,12,1,Hosur Road,South Zone 2,20.58339885,0
+FKID005347,unplanned,accident,Low,0,19,12,1,Non-corridor,West Zone 1,15.379208666666667,0
+FKID005379,unplanned,accident,High,0,23,12,0,Hosur Road,South Zone 2,33.47683516666667,0
+FKID005402,unplanned,accident,Low,0,21,12,0,Non-corridor,East Zone 1,216.12666711666668,1
+FKID005409,unplanned,accident,High,0,5,12,0,Bellary Road 2,North Zone 2,39.634294700000005,0
+FKID005465,unplanned,accident,High,0,5,12,1,ORR North 1,Central Zone 1,50.145977466666665,0
+FKID005483,unplanned,accident,Low,0,3,12,1,Non-corridor,East Zone 2,61.85042823333333,1
+FKID005561,unplanned,accident,High,0,18,12,0,Hosur Road,South Zone 2,116.71515604999999,1
+FKID005562,unplanned,accident,High,0,18,12,0,Hosur Road,South Zone 2,115.25701389999999,1
+FKID005563,unplanned,accident,High,0,18,12,0,Hosur Road,South Zone 2,114.69720166666666,1
+FKID005564,unplanned,accident,High,0,18,12,0,Hosur Road,South Zone 2,109.13002826666667,1
+FKID005635,unplanned,accident,Low,0,4,1,0,Non-corridor,South Zone 1,22.614246416666667,0
+FKID005856,unplanned,accident,High,0,5,11,0,Bellary Road 2,,16.327909866666666,0
+FKID005857,unplanned,accident,High,0,5,11,0,Bellary Road 2,,14.426824566666665,0
+FKID005873,unplanned,congestion,Low,1,22,11,0,Non-corridor,South Zone 1,42.636129950000004,0
+FKID005888,unplanned,accident,High,0,5,11,0,Mysore Road,Central Zone 1,75.20685893333332,1
+FKID005918,unplanned,congestion,Low,0,1,11,0,Non-corridor,Central Zone 2,55.54801945,0
+FKID005928,unplanned,accident,Low,0,9,11,0,Non-corridor,North Zone 2,85.21886508333334,1
+FKID005977,unplanned,accident,High,0,20,11,0,Tumkur Road,West Zone 1,36.67476746666667,0
+FKID005997,unplanned,tree_fall,High,0,1,11,0,ORR East 1,East Zone 1,77.93821268333333,0
+FKID005998,unplanned,accident,High,0,3,11,0,Bellary Road 2,North Zone 1,15.615314166666668,0
+FKID006007,unplanned,accident,High,0,14,11,0,Bellary Road 2,North Zone 2,59.43833245,0
+FKID006010,unplanned,accident,Low,0,20,11,0,Non-corridor,West Zone 2,77.63881098333333,1
+FKID006124,unplanned,accident,High,0,19,11,0,ORR North 1,North Zone 1,21.757424,0
+FKID006130,unplanned,congestion,High,0,21,11,0,Hennur Main Road,North Zone 1,97.18107958333333,0
+FKID006365,unplanned,accident,High,0,19,11,0,Bellary Road 2,North Zone 1,61.2137216,0
+FKID006494,unplanned,accident,Low,0,4,12,0,Non-corridor,Central Zone 2,30.651319966666666,0
+FKID006522,unplanned,accident,High,0,0,12,0,Bellary Road 2,North Zone 2,38.393301550000004,0
+FKID006545,unplanned,accident,High,0,20,12,0,Bellary Road 2,North Zone 2,30.054063183333334,0
+FKID006626,unplanned,congestion,High,0,20,12,0,West of Chord Road,West Zone 2,65.45038186666666,0
+FKID006632,unplanned,tree_fall,Low,1,22,12,0,Non-corridor,West Zone 1,203.1981286666667,0
+FKID006705,unplanned,accident,High,0,9,12,0,Old Madras Road,Central Zone 1,26.898228933333332,0
+FKID006731,unplanned,accident,High,0,16,12,0,Bellary Road 2,North Zone 1,61.15111423333334,0
+FKID006775,unplanned,tree_fall,Low,1,3,12,0,Non-corridor,South Zone 2,215.32322236666667,0
+FKID006791,unplanned,accident,High,0,19,12,0,ORR North 2,North Zone 2,52.345084899999996,0
+FKID006829,unplanned,accident,High,0,18,12,0,Bellary Road 1,Central Zone 2,107.76804146666667,1
+FKID006936,unplanned,accident,High,0,18,12,1,Tumkur Road,West Zone 1,40.03595935,0
+FKID007087,unplanned,accident,High,0,8,12,0,Tumkur Road,West Zone 1,46.73368636666667,0
+FKID007189,unplanned,tree_fall,Low,1,6,12,0,Non-corridor,North Zone 2,5198.000742266667,1
+FKID007192,unplanned,accident,High,0,6,12,0,Tumkur Road,West Zone 1,23.807276100000003,0
+FKID007245,unplanned,congestion,Low,0,4,12,0,Non-corridor,South Zone 2,115.82626488333334,1
+FKID007270,unplanned,accident,Low,0,0,12,0,Non-corridor,,89.56093413333333,1
+FKID007298,unplanned,accident,High,0,21,12,0,Bellary Road 2,North Zone 1,16.90388255,0
+FKID007351,unplanned,tree_fall,Low,1,5,12,1,Non-corridor,West Zone 2,53.0065693,0
+FKID007366,unplanned,accident,Low,0,0,12,1,Non-corridor,Central Zone 2,18.1937805,0
+FKID007368,unplanned,accident,High,0,1,12,1,Hosur Road,South Zone 2,2.026038183333333,0
+FKID007563,unplanned,accident,High,0,0,1,1,ORR East 1,South Zone 2,36.9388623,0
+FKID007617,unplanned,accident,High,0,6,1,0,Old Madras Road,Central Zone 1,65.42554686666666,1
+FKID007711,unplanned,accident,High,0,20,1,0,Bellary Road 2,North Zone 2,32.31531945,0
+FKID007780,unplanned,accident,High,0,17,1,1,Tumkur Road,West Zone 1,49.68956086666667,0
+FKID007884,unplanned,tree_fall,Low,0,22,1,0,Non-corridor,Central Zone 2,1569.8819773833334,1
+FKID007956,unplanned,tree_fall,Low,0,7,1,1,Non-corridor,,63.193024916666666,0
+FKID008005,unplanned,tree_fall,Low,1,22,1,0,Non-corridor,,66.67837425,0
+FKID008061,unplanned,tree_fall,Low,1,8,1,0,Non-corridor,,2292.2994898666666,1
+FKID008099,unplanned,tree_fall,High,0,8,1,0,Tumkur Road,,24.31025375,0
+FKID008115,unplanned,tree_fall,Low,1,22,1,0,Non-corridor,,125.77258660000001,0
+FKID008132,unplanned,accident,High,0,4,1,1,Tumkur Road,,37.806749716666666,0
