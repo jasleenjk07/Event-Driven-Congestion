@@ -1,7 +1,9 @@
 # Gridlock Hackathon 2.0 — Round 2 Submission
 
 **Project:** Event-Driven Congestion Risk Forecasting & Traffic Management System  
-**Hackathon:** [Gridlock Hackathon 2.0 — Round 2](https://www.hackerearth.com/community/challenges/hackathon/gridlock-hackathon-20-round-2/) (Flipkart × Bengaluru Traffic Police)
+**Hackathon:** [Gridlock Hackathon 2.0 — Round 2](https://www.hackerearth.com/community/challenges/hackathon/gridlock-hackathon-20-round-2/) (Flipkart × Bengaluru Traffic Police)  
+**Live demo:** [https://event-driven-congestion.streamlit.app/](https://event-driven-congestion.streamlit.app/)  
+**Repository:** [github.com/jasleenjk07/Event-Driven-Congestion](https://github.com/jasleenjk07/Event-Driven-Congestion)
 
 ---
 
@@ -64,8 +66,16 @@ cd dashboard && streamlit run app.py
 
 ## Live demo
 
-<!-- Add your Streamlit Cloud URL after deploy -->
-`[Deploy to Streamlit Cloud and paste URL here]`
+**[https://event-driven-congestion.streamlit.app/](https://event-driven-congestion.streamlit.app/)**
+
+Deployed on Streamlit Community Cloud · main file: `dashboard/app.py`
+
+### Quick test path for judges
+
+1. Open the link above
+2. **Predict & Plan** → select *Protest on ORR East — evening peak* → **Predict Congestion Risk**
+3. **Analytics** → review time-based holdout metrics and Bengaluru heatmap
+4. **Event Explorer** → filter **High** risk → view marker/heatmap
 
 ## Demo video
 

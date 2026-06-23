@@ -8,6 +8,8 @@ This project presents an **Event-Driven Congestion Risk Forecasting and Traffic 
 
 Since direct traffic measurements (traffic speed, traffic volume, occupancy, and travel delay) were unavailable in the dataset, an **Event Congestion Index (ECI)** was engineered using event characteristics, road closure information, temporal factors, and event severity indicators. A second, independent model predicts **long-duration clearance risk** from actual event-closure timestamps.
 
+**Live demo:** [https://event-driven-congestion.streamlit.app/](https://event-driven-congestion.streamlit.app/)
+
 ---
 
 ## 🎯 Problem Statement
@@ -442,7 +444,9 @@ Versions are pinned in `requirements.txt` for reproducibility.
 
 ## 🏁 Hackathon Submission (Gridlock 2.0)
 
-See **[SUBMISSION.md](SUBMISSION.md)** for the judging brief, demo script, and placeholders for your **live demo URL** and **demo video**.
+**Live app:** [https://event-driven-congestion.streamlit.app/](https://event-driven-congestion.streamlit.app/)
+
+See **[SUBMISSION.md](SUBMISSION.md)** for the judging brief, demo script, and submission details.
 
 ### Quick demo scenarios (dashboard)
 
@@ -460,16 +464,25 @@ python scripts/generate_reports.py
 
 Charts are saved to `reports/figures/`.
 
-### Deploy on Streamlit Cloud (free)
+### Deployed on Streamlit Cloud
 
-1. Push repo to GitHub (exclude `venv/` — see `.gitignore`)
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Main file path: `dashboard/app.py`
-4. Add the public URL to `SUBMISSION.md` and your HackerEarth submission
+| Setting | Value |
+|---------|--------|
+| URL | [event-driven-congestion.streamlit.app](https://event-driven-congestion.streamlit.app/) |
+| Main file | `dashboard/app.py` |
+| Repository | [jasleenjk07/Event-Driven-Congestion](https://github.com/jasleenjk07/Event-Driven-Congestion) |
+
+To redeploy after changes: push to `main` on GitHub — Streamlit Cloud rebuilds automatically.
 
 ---
 
 ## ▶️ Run Dashboard
+
+### Live (recommended for judges)
+
+**[https://event-driven-congestion.streamlit.app/](https://event-driven-congestion.streamlit.app/)**
+
+### Local development
 
 From the project root with the virtual environment activated:
 
